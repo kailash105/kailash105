@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kailash Khadarabac</h1>
+<h1 align="center">Hi 👋, I'm Kailash Khadarabad</h1>
 <h3 align="center">A passionate frontend developer and from India</h3>
 
 - 🔭 I’m currently working on **Sentimental Analysis**
