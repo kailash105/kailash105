@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kailash Khadarabad</h1>
-<h3 align="center">A passionate frontend developer and from India</h3>
+<h3 align="center">A passionate frontend developer and machine learning enthsiast from India</h3>
 
 - 🔭 I’m currently working on **Sentimental Analysis**
 
