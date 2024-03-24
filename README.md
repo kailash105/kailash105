@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kailash Khadarabad</h1>
-<h3 align="center">A passionate frontend developer and machine learning enthsiast from India</h3>
+<h3 align="center">"👨‍💻 Kailash Khadarabad 🌟 AI & ML Enthusiast | Web Developer 🚀 Passionate about building intelligent systems and crafting seamless web experiences. 💡 Constantly exploring the intersections of AI, ML, and web development to create innovative solutions. 🌐 Let's collaborate and bring ideas to life! #AI #ML #WebDev"</h3>
 
 - 🔭 I’m currently working on **Sentimental Analysis**
 
