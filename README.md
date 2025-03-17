@@ -18,6 +18,8 @@
 
 ---
 
+<a href="https://app.daily.dev/kailash08"><img src="https://api.daily.dev/devcards/v2/HRCQctclYYLeQeSLUFwLX.png?r=tsb&type=wide" width="652" alt="kailash's Dev Card"/></a>
+
 ### 🚀 Skills & Technologies
 
 #### Programming Languages
