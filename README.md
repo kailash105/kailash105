@@ -66,3 +66,9 @@
 ---
 
 <p align="center">💡 "Consistency is key, and I'm here to keep learning, growing, and collaborating."</p>
+
+![kailash105's Stats](https://github-readme-stats.vercel.app/api?username=kailash105&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+
+![kailash105's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=synthwave&hide_border=true)
+
+![kailash105's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailash105&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
