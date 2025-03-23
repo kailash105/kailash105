@@ -10,7 +10,7 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I'm currently working on **Agro-Aura** (Deep Learning project), stay tuned for more updates!
+- 🔭 I'm currently working on **G-Code generation using AI** collaboration project with Civil Construcion work, stay tuned for more updates!
 - 💡 Always practicing Data Structures and Algorithms (DSA) on various platforms.
 - 📧 Reach me at **kailashkbc2@gmail.com**.
 - 🌱 I believe **Consistency is the key** to success.
