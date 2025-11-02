@@ -1,84 +1,94 @@
-<h1 align="center">👋 Yo, I'm Kailash Khadarabad</h1>
-<h3 align="center">AI ⚡ ML ⚙️ Full Stack Dev 🚀</h3>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=fff&fontAlignY=35" width="100%"/>
 
-<p align="center">💡 Blending code, creativity & caffeine to build smarter systems and sleek web experiences.</p>
+<h2 align="center">👋 Hey, I’m Kailash Khadarabad</h2>
+<h3 align="center">AI + ML Engineer ⚙️ | Full Stack Developer 💻 | Trainer 🎓</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%2312100E.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-%2312100E.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trainer-%2312100E.svg?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <em>“Not just writing code — crafting intelligent experiences.”</em>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 Professional Identity Crisis
+Hi there! I’m Kailash — the kind of developer who can debug ML models at 2 AM and design React dashboards by sunrise.  
+I juggle **AI, Full Stack, Cloud, and Training** like it’s a tech circus 🎪 (and honestly, I love it).  
 
-- 🧠 Currently building **AI-driven G-Code Generation System** for concrete 3D printing — merging AI + Construction.  
-- 🧑‍🏫 Trainer @ **TechProjectsHub**, teaching **Cloud, AI/ML & Full Stack Development**.  
-- 🧩 Exploring **LLM-based Trojan Detection** & Explainable AI models for hardware security.  
-- 💻 Practicing **DSA in Java & Python** to keep my fundamentals sharp.  
-- 🌍 Founder @ [**TechProjectsHub**](https://www.techprojectshub.in) — where **training meets innovation**.  
-- 🎯 Motto: *“Stay consistent, stay curious — that’s the cheat code.”*  
-- 📧 Reach me at **kailashkbc2@gmail.com**.  
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/kailash-khadarabad-149660156/) or vibe on [Instagram](https://instagram.com/kailash._kailu).  
+💬 I turn complex AI and web concepts into stuff humans can actually understand.  
+🚀 Founder of [**TechProjectsHub**](https://www.techprojectshub.in) — where we turn learning into building.  
+🧑‍🏫 Trainer who’s taught Cloud, AI, and Full Stack to dozens of students & interns.  
+🤖 Currently experimenting with **LLM-powered Trojan Detection** and **AI-based G-code Generation for 3D Printing**.  
 
 ---
 
-<a href="https://app.daily.dev/kailash08">
-  <img src="https://api.daily.dev/devcards/v2/HRCQctclYYLeQeSLUFwLX.png?r=tsb&type=wide" width="652" alt="Kailash's Dev Card"/>
-</a>
+### ⚙️ Skills That Pay The Bills
+
+#### 💡 AI & Machine Learning Magician
+- 🧠 Building ML/DL models that *actually* generalize.  
+- 🔍 Into Explainable AI (XAI) — SHAP, attention maps, all that good stuff.  
+- 🧩 Love combining AI with real-world applications (Construction, Security, Automation).  
+- 🧃 Favorite Stack: Python • TensorFlow • Scikit-learn • Pandas • Seaborn  
+
+#### 💻 Full Stack Sorcerer
+- 🪄 ReactJS + Node.js + Express + MongoDB (MERN, baby!)  
+- ⚡ Built cool stuff like **AI Email Generator**, **LMS System**, and **Alpha Groups Website**.  
+- 🔥 Obsessed with clean UI — Tailwind, ShadCN UI, Next.js & animations that *slap*.  
+- 💬 “If it looks boring, it’s not shipping.”  
+
+#### ☁️ Cloud & DevOps Whisperer
+- 🧑‍🏫 Trainer for **Microsoft Azure (Cloud Computing)**.  
+- 💾 Deploying backends like a pro — Render, Netlify, Vercel, and Docker.  
+- 🧩 Familiar with CI/CD pipelines and JWT-based authentication setups.  
 
 ---
 
-### ⚙️ Tech Arsenal
+### 🧰 My Arsenal
 
-#### 🧑‍💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-</p>
+**Languages I Speak (Fluently or Emotionally):**
+- Python 🐍  
+- Java ☕  
+- JavaScript ⚡  
+- C 💡  
+- SQL (and yes, I forget semicolons sometimes)
 
-#### 🌐 Web & App Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-</p>
+**Frameworks I Juggle:**
+- React, Next.js, Express.js, Flask  
+- TensorFlow, Scikit-learn  
+- Node.js, MongoDB  
+- Tailwind CSS, ShadCN UI  
 
-#### 🤖 AI / ML & Data Science
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB"/>
-</p>
-
-#### ☁️ Cloud & Dev Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/>
-</p>
+**Tools I Trust:**
+- Git / GitHub (obviously 😎)  
+- VS Code (with too many extensions)  
+- Figma for design prototypes  
+- Azure Cloud  
+- Photoshop for making AI slides look aesthetic  
 
 ---
 
-### 🎓 Current Highlights
-- 🧩 Building **AI Email Generator (React + Express + Groq API + Nodemailer)**  
-- ⚙️ Developing **LMS Platform (React + Node + MongoDB)**  
-- 🌐 Revamping **Alpha Groups** & **TechProjectsHub** with modern UI + animations  
-- 💬 Teaching **Cloud (Azure)** and **Python/Full Stack** batches  
+### 🧩 When I’m Not Coding
+- 🎮 Professional button-masher (gaming is debugging, right?)  
+- 📚 Teaching coding & cloud to young devs  
+- 💡 Brainstorming project ideas that merge AI + Web + Education  
+- ☕ Coffee-fueled night owl mode = 200% productivity  
+- 📸 Designing & maintaining [TechProjectsHub](https://www.techprojectshub.in) with my own custom vibe  
 
 ---
 
-### 📫 Connect With Me
+### 📊 GitHub Stats That Make Me Look Cool
+<div align="center">
 
+![Kailash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailash105&theme=radical&show_icons=true&hide_border=true&count_private=true)
+  
+![Kailash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=radical&hide_border=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailash105&theme=radical&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+### 🌐 Find Me Online
 <p align="center">
   <a href="https://www.linkedin.com/in/kailash-khadarabad-149660156/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://instagram.com/kailash._kailu"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
@@ -87,16 +97,6 @@
 
 ---
 
-<p align="center">💭 “Consistency hits harder than motivation — just keep shipping 🚢.”</p>
+<p align="center"><b>“Consistency hits harder than motivation — keep shipping 🚢.”</b></p>
 
----
-
-<div align="center">
-  
-![Kailash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailash105&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-  
-![Kailash's Streak](https://github-readme-streak-stats.herokuapp.com?user=kailash105&theme=tokyonight&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailash105&theme=tokyonight&layout=compact&hide_border=true)
-  
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=120&section=footer" width="100%"/>
