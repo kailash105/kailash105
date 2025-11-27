@@ -1,98 +1,67 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=fff&fontAlignY=35" width="100%"/>
+<!-- 🌟 Banner at top -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=fff&fontAlignY=35" width="100%" />
 
 <h2 align="center">👋 Hey, I’m Kailash Khadarabad</h2>
-<h3 align="center">AI + ML Engineer ⚙️ | Full Stack Developer 💻 | Trainer 🎓 | Creator @ TechProjectsHub 🚀</h3>
+<h3 align="center">AI + ML Engineer ⚙️ | Full-Stack Developer 💻 | Trainer 🎓 | Creator @ TechProjectsHub 🚀</h3>
 
+<p align="center"><em>“Not just writing code — crafting intelligent, beautiful, and scalable experiences.”</em></p>
+
+---
+
+<!-- 🎯 Badges & Profile Stats -->
 <p align="center">
-  <em>“Not just writing code — crafting intelligent, beautiful, and scalable experiences.”</em>
+  <!-- Profile view / visitor counter badge -->
+  <img src="https://komarev.com/ghpvc/?username=kailash105" alt="Profile views" />
+
+  <!-- GitHub Stats (contributions, languages, etc.) -->
+  <br />
+  ![Kailash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailash105&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailash105&layout=compact&theme=radical&hide_border=true)  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=radical&hide_border=true)
 </p>
 
 ---
 
-### 🧠 Who Am I?
+## 🧠 Who Am I?
 
-Hey there! I’m **Kailash** — a developer who wears multiple hats:  
-building **AI models**, designing **full-stack apps**, teaching **cloud computing**, and occasionally battling procrastination like a final boss 🕹️.  
-
-💬 I simplify complex AI & web concepts into real, working systems.  
-🚀 Founder of [**TechProjectsHub**](https://www.techprojectshub.in) — where learning meets building.  
-🧑‍🏫 Trainer in **AI, Cloud, and Full Stack** for students & interns.  
-🔬 Currently tinkering with **LLM-powered Trojan Detection** & **AI-Driven G-Code Generation for 3D Printing**.  
+Hi there! I’m **Kailash** — a multi-disciplined dev:  
+- ⚙️ Building **AI/ML solutions** that aim to generalize & scale.  
+- 💻 Designing **full-stack applications** with focus on user experience & clean architecture.  
+- ☁️ Exploring **Cloud & DevOps workflows** — from deployment to CI/CD pipelines.  
+- 🧑‍🏫 Sharing knowledge as a **trainer**, and building a learning-to-building community via **TechProjectsHub**.  
 
 ---
 
-### ⚙️ My Tech Arsenal
+## 🛠️ My Tech Arsenal
 
-#### 🤖 Artificial Intelligence / Machine Learning
-- Building & deploying end-to-end ML/DL pipelines.  
-- Experienced with **TensorFlow, Scikit-learn, OpenCV, Numpy, Pandas**.  
-- Focused on **Explainable AI (XAI)**, model interpretability, and edge AI.  
-- Projects:  
-  - 🧩 [**AI Workflow Builder**](https://github.com/kailash105/ai-workflow-builder) – Visual node-based builder for AI pipelines with FastAPI backend.  
-  - 🧠 [**LawBot (Gemini API)**](https://github.com/kailash105/LawBot_using_GeminiAPI) – Conversational AI trained on Indian legal data.  
-  - ⚙️ [**G-Code Generator using AI**](https://github.com/kailash105/G-Code-Generator-using-AI) – Converts designs to optimized G-Code for 3D printing.  
-  - 🎨 [**JSON-TOON Converter**](https://github.com/kailash105/JSON-TOON-Convertor) – Converts JSON structures into visual storyboards using AI logic.  
-
-#### 💻 Full Stack Development
-- MERN + Next.js + Tailwind + ShadCN UI stack.  
-- Strong emphasis on performance, clean UX, and reusable architecture.  
-- Projects:  
-  - ✉️ [**AI Email App**](https://github.com/kailash105/AI_Email_app) – Smart AI-based email generation assistant.  
-  - 🧑‍💻 [**TechProjectsHub**](https://github.com/kailash105/TechProjectsHub) – Platform to turn student learning into practical building.  
-  - 🌐 [**Alpha Groups Webpage**](https://github.com/kailash105/Alpha-Groups-Webpage) – Responsive website for client with dynamic components.  
-  - 🔐 [**Next.js RBAC Auth System**](https://github.com/kailash105/nextjs-rbac-auth-system) – Role-based authentication system with JWT and TypeScript.  
-  - 💼 [**Portfolio Website**](https://github.com/kailash105/anotherPortfolio) – Personal showcase site built with React + Framer Motion.  
-
-#### ☁️ Cloud & DevOps
-- Trainer in **Microsoft Azure Cloud Computing** ☁️.  
-- Deployment & CI/CD with **Vercel, Netlify, Render, Docker, GitHub Actions**.  
-- Integrating cloud APIs and authentication (Azure AD, JWT).  
+**Languages:** Python · Java · JavaScript / TypeScript · C · SQL  
+**Frameworks / Libraries:** React · Next.js · Node.js · Express · Flask · TensorFlow · Scikit-learn · MongoDB / PostgreSQL · Tailwind CSS / ShadCN UI  
+**Tools & Platforms:** Git · GitHub · VS Code · Figma · Azure · Docker · Vercel / Netlify / Render  
 
 ---
 
-### 🧰 Languages, Frameworks & Tools
+## 🚀 Selected Projects / What I Build
 
-**Languages:** Python • Java • JavaScript • TypeScript • C • SQL  
-**Frameworks:** React • Next.js • Node.js • Express.js • Flask • TensorFlow • Scikit-learn  
-**Databases:** MongoDB • PostgreSQL  
-**Tools:** Git • GitHub • VS Code • Figma • Azure • Photoshop  
+| Project | What It Does |
+|--------|----------------|
+| **AI Workflow Builder** | Visual drag-and-drop interface to build & run AI pipelines (FastAPI + React) |
+| **LawBot (Gemini API)** | Conversational AI trained on Indian legal data — handy for legal-tech experiments |
+| **G-Code Generator using AI** | Converts design data into optimized G-code for 3D printing using ML/AI |
+| **TechProjectsHub** | Learning-to-building platform to help students & devs build real-world projects |
+| **AI Email App** | Automatic email/content generation assistant powered by AI |
+| **Next.js RBAC Auth System** | Role-based authentication demo using Next.js + TypeScript + JWT |
+| **Alpha Groups Webpage & Portfolio Site** | Responsive web front-ends built using React / Next.js with clean UI/UX |
 
----
-
-### 🎯 Highlight Projects
-
-| Project | Description | Stack |
-|----------|--------------|--------|
-| [AI Workflow Builder](https://github.com/kailash105/ai-workflow-builder) | Visual drag-and-drop AI pipeline creator with FastAPI backend | React, FastAPI, Node |
-| [LawBot using Gemini API](https://github.com/kailash105/LawBot_using_GeminiAPI) | Chatbot trained on Indian legal datasets | Python, Gemini API |
-| [G-Code Generator using AI](https://github.com/kailash105/G-Code-Generator-using-AI) | AI tool to generate 3D printer code | Python |
-| [TechProjectsHub](https://github.com/kailash105/TechProjectsHub) | Project-based learning platform | React, Node, MongoDB |
-| [AI Email App](https://github.com/kailash105/AI_Email_app) | AI-powered content/email generator | React, Node |
-| [Next.js RBAC System](https://github.com/kailash105/nextjs-rbac-auth-system) | Role-based access control authentication | Next.js, TypeScript |
+*(More projects available in my repos — check them out!)*
 
 ---
 
-### 📊 GitHub Stats That (Hopefully) Impress
-<div align="center">
+## 🌐 Let's Connect
 
-![Kailash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailash105&theme=radical&show_icons=true&hide_border=true&count_private=true)  
-![Kailash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailash105&theme=radical&layout=compact&hide_border=true)
-
-</div>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/kailash-khadarabad-149660156/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://instagram.com/kailash._kailu"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="mailto:kailashkbc2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/kailash-khadarabad-149660156/) • [Instagram](https://instagram.com/kailash._kailu) • [Email me](mailto:kailashkbc2@gmail.com)  
 
 ---
 
 <p align="center"><b>“Consistency hits harder than motivation — keep shipping 🚢.”</b></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=120&section=footer" width="100%" />
