@@ -1,78 +1,85 @@
-<!-- 🕷️ Spider-Man Themed Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:001f3f&height=220&section=header&text=Welcome%20to%20My%20Multiverse!&fontSize=38&fontColor=ffffff&fontAlignY=35" width="100%" />
-
-<h2 align="center">🕷️ Kailash Khadarabad</h2>
-<h3 align="center">AI Engineer 🧠 | Full-Stack Dev 💻 | Multiverse Builder 🌌</h3>
-
-<p align="center"><em>"With great code comes great responsibility."</em></p>
-
----
-
-# 🕸️ Spider-Man Mode: AI & Engineering
-
-🧠 Building intelligent systems that scale  
-⚡ Solving real-world problems with ML  
-🕷️ Shipping clean, responsible code  
-
----
-
-# 🍄 Super Mario Mode: Leveling Up Skills
+<h1 align="center">Kailash Khadarabad</h1>
+<h3 align="center">AI Engineer | Full-Stack Developer | Python Developer @ Vassar Labs</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,azure,git,github" />
+Building scalable AI systems and production-ready web applications
 </p>
 
-🎮 Current Level: Final-Year AI Engineer  
-🚀 Power-Ups: React + AI + System Design  
-🏆 Mission: Build products that impact millions  
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year student specializing in AI & Machine Learning  
+- 💼 Currently working as a **Python Developer at Vassar Labs**  
+- 🧠 Passionate about building intelligent, real-world systems  
+- ⚡ Focused on clean architecture and scalable solutions  
+- 🚀 Interested in AI products, system design, and startups  
 
 ---
 
-# 🚗 Lightning McQueen Mode: Speed & Performance
+## 🛠️ Tech Stack
 
-🏎️ Fast execution  
-⚡ Clean architecture  
-🔥 Production-ready deployments  
+**Languages**
+- Python, Java, JavaScript, TypeScript  
 
-“Speed. I am speed.”  
+**Frontend**
+- React.js, Next.js, Tailwind CSS  
 
----
+**Backend**
+- Node.js, Express.js  
 
-# 🏆 Featured Missions (Projects)
+**Databases**
+- MongoDB, PostgreSQL  
 
-| 🕷️ Project | 🚀 Description |
-|------------|----------------|
-| **AI Workflow Builder** | Drag & drop AI pipeline builder |
-| **LawBot (Gemini API)** | AI trained on Indian legal data |
-| **G-Code AI Generator** | AI-powered 3D printing assistant |
-| **TechProjectsHub** | Platform helping students build real projects |
-| **RBAC Auth System** | Secure Next.js auth demo |
+**Tools & Platforms**
+- Docker, Azure, Git, GitHub  
 
 ---
 
-# 📊 Multiverse Stats
+## 🚀 Projects
+
+### 🔹 AI Workflow Builder  
+Drag-and-drop platform to design and execute AI pipelines  
+
+### 🔹 LawBot (Gemini API)  
+AI assistant trained on Indian legal datasets  
+
+### 🔹 G-Code AI Generator  
+AI-powered automation for 3D printing instructions  
+
+### 🔹 TechProjectsHub  
+Platform to help students build real-world projects  
+
+### 🔹 RBAC Authentication System  
+Secure authentication system using Next.js  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kailash105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kailash105&show_icons=true&theme=default" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=default" />
 </p>
 
 ---
 
-# 🌍 Connect Across Dimensions
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/kailash-khadarabad-149660156/  
+- 📧 Email: kailashkbc2@gmail.com  
+
+---
+
+## 💡 Current Focus
+
+- Building production-level AI systems  
+- Improving backend and system design skills  
+- Developing scalable SaaS products  
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kailash-khadarabad-149660156/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
-  </a>
-  <a href="mailto:kailashkbc2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
-  </a>
+  <b>Building impactful technology, one system at a time.</b>
 </p>
-
----
-
-<p align="center"><b>🕷️ Keep building. 🍄 Keep leveling up. 🚗 Keep moving fast.</b></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:ff0000&height=140&section=footer" width="100%" />
