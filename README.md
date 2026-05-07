@@ -4,6 +4,7 @@
 <p align="center">
 Building scalable AI systems and production-ready web applications
 </p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kailash105)
 
 ---
 
