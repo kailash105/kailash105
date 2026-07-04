@@ -1,185 +1,141 @@
-````markdown
 <h1 align="center">🇵🇹 Kailash Khadarabad 🇵🇹</h1>
 
 <h3 align="center">
-⚽ AI Engineer • Full-Stack Developer • Python Developer @ Vassar Labs
+⚽ AI Engineer • Full-Stack Developer • Python Developer
 </h3>
 
 <p align="center">
-Building production-ready AI systems by day.<br>
-Supporting Portugal every matchday.
+Building AI systems • Shipping scalable software • Supporting Portugal 🇵🇹
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIFA%20World%20Cup-2026-0057B8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team-Portugal-D81E25?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FORÇA-PORTUGAL-0B8F3A?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=kailash105&label=Visitors&color=0B8F3A&style=flat"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kailash105&label=Fans%20Visited&color=0B8F3A&style=flat" />
+<img src="https://img.shields.io/badge/FIFA%202026-World%20Cup-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portugal-Supporter-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Força-Portugal-success?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🏆 Welcome to My Stadium
 
-> "Some people count commits.  
-> I count commits and Portugal goals."
-
-I'm **Kailash**, an AI Engineer and Full-Stack Developer passionate about building intelligent software, scalable backend systems, and modern web applications.
-
-When I'm not building AI products, you'll probably find me watching football, analyzing tactics, or cheering for **Portugal**.
+> Building production-ready AI systems while cheering every Portugal goal.
 
 ---
 
 # 🇵🇹 Team Portugal
 
-❤️ Proud Portugal Supporter
+<p align="center">
 
-🏆 FIFA World Cup 2026
+🇵🇹 Portugal Supporter
 
-⭐ Favorite Players
+🐐 Cristiano Ronaldo
 
-- Cristiano Ronaldo 🐐
-- Bruno Fernandes
-- Rafael Leão
-- Bernardo Silva
-- Rúben Dias
-- Diogo Costa
-- João Neves
+🎯 Bruno Fernandes
 
-**Prediction**
+⚡ Rafael Leão
 
-```
-Portugal ➜ Champions 🏆
-```
+🧱 Rúben Dias
+
+🧤 Diogo Costa
+
+🏆 **Prediction: Portugal Champions**
+
+</p>
 
 ---
 
 # ⚽ Starting XI (Tech Stack)
 
-## 🧤 Goalkeeper
+<table align="center">
 
-- Python
-- Java
+<tr>
+<td align="center">🧤 Goalkeeper</td>
+<td>
 
----
+Python
 
-## 🛡️ Defenders
+Java
 
-- PostgreSQL
-- MongoDB
-- Docker
-- Git
-- GitHub
+</td>
+</tr>
 
----
+<tr>
+<td align="center">🛡️ Defenders</td>
+<td>
 
-## 🎯 Midfield
+Docker • Git • MongoDB • PostgreSQL
 
-- Node.js
-- Express.js
-- Azure
-- REST APIs
-- System Design
+</td>
+</tr>
 
----
+<tr>
+<td align="center">🎯 Midfield</td>
+<td>
 
-## ⚡ Attackers
+Node.js • Express • Azure • REST APIs
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
+</td>
+</tr>
 
----
+<tr>
+<td align="center">⚡ Attackers</td>
+<td>
 
-## 👑 Captain
+React
 
-🤖 Artificial Intelligence
+Next.js
 
-- Machine Learning
-- LLMs
-- RAG
-- AI Agents
-- Workflow Automation
-- Prompt Engineering
-- Generative AI
+Tailwind
 
----
+TypeScript
 
-# 🏟️ Career Journey
+JavaScript
 
-## ⚽ Python Developer
+</td>
+</tr>
 
-### Vassar Labs
+<tr>
+<td align="center">👑 Captain</td>
+<td>
 
-- Building scalable backend services
-- Developing production-grade Python applications
-- API development
-- Automation pipelines
-- AI integrations
-- Performance optimization
-- Cloud deployments
+AI • LLMs • RAG • AI Agents • ML • Automation
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-# 🏅 Tournament Highlights (Projects)
+# 🏟️ Current Club
 
-## ⚽ AI Workflow Builder
+### ⚽ Python Developer @ Vassar Labs
 
-A drag-and-drop platform for building intelligent AI pipelines.
+🏗️ Backend Development
 
-**Tech**
+⚡ AI Integrations
 
-`React` `Node.js` `Python` `MongoDB`
+🚀 Automation
 
----
+☁️ Cloud Deployments
 
-## ⚽ LawBot
-
-AI-powered legal assistant using Gemini API and Indian legal datasets.
-
-**Tech**
-
-`Python` `Gemini API` `React`
+📈 Performance Optimization
 
 ---
 
-## ⚽ RBAC Authentication System
+# 🏅 Tournament Highlights
 
-Secure authentication platform with role-based authorization.
-
-**Tech**
-
-`Next.js` `JWT`
-`PostgreSQL`
-
----
-
-## ⚽ TechProjectsHub
-
-Helping students discover and build real-world technical projects.
-
-**Tech**
-
-`Next.js`
-`MongoDB`
-`Tailwind`
-
----
-
-## ⚽ G-Code AI Generator
-
-AI-powered G-Code generation for intelligent manufacturing workflows.
-
-**Tech**
-
-`Python`
-`Automation`
-`AI`
+| ⚽ Project | Description |
+|-----------|-------------|
+| 🤖 AI Workflow Builder | Drag & Drop AI Pipeline Builder |
+| ⚖️ LawBot | AI Legal Assistant |
+| 🔐 RBAC Auth | Secure Authentication System |
+| 🎓 TechProjectsHub | Student Project Platform |
+| 🖨️ G-Code AI | AI-powered G-Code Generator |
 
 ---
 
@@ -187,67 +143,58 @@ AI-powered G-Code generation for intelligent manufacturing workflows.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kailash105&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kailash105&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash105&layout=compact&theme=tokyonight"/>
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash105&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🥇 Current Season Objectives
+# 🎯 Current Objectives
 
-- 🏆 Build production-grade AI systems
-- ⚽ Master backend architecture
-- 🤖 Build advanced AI Agents
-- ☁️ Learn distributed cloud systems
-- 🚀 Launch SaaS products
-- 📈 Contribute more to Open Source
+🏆 Build Production AI
+
+⚽ Master Backend Systems
+
+🤖 AI Agents
+
+☁️ Cloud Engineering
+
+🚀 SaaS Development
+
+📈 Open Source
 
 ---
 
-# 📅 Matchday Checklist
+# 📅 Matchday Routine
 
 ```text
-☑ Coffee Ready
-☑ VS Code Open
-☑ Docker Running
-☑ Git Commit
-☑ Portugal Match Streaming
-☑ Celebrate Every Goal
+☕ Coffee
+💻 VS Code
+🐳 Docker
+📦 Git Push
+⚽ Portugal Match
+🎉 Celebrate Goals
 ```
 
 ---
 
-# 📈 Current Formation
+# 🌍 Connect
 
-```
-               AI
-
-Frontend   Backend   Cloud
-
-      Python   LLMs
-
-     Football ❤️
-```
-
----
-
-# 🌍 Connect With Me
-
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/kailash105">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kailash-khadarabad-149660156/">
+<a href="https://linkedin.com/in/kailash-khadarabad-149660156">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -259,24 +206,14 @@ Frontend   Backend   Cloud
 
 ---
 
-# 🏆 Favorite Quote
-
-> "Talent wins matches. Discipline builds systems. Passion creates history."
-
----
-
 <p align="center">
 
 ## 🇵🇹 FORÇA PORTUGAL 🇵🇹
 
-### ⚽ FIFA World Cup 2026
+### FIFA World Cup 2026
 
-*"Building intelligent systems while chasing another Portuguese victory."*
+*"Code. Commit. Cheer. Repeat."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F3A,D81E25&height=120&section=footer"/>
 
 </p>
-````
-
-
-
