@@ -1,0 +1,117 @@
+{
+  "backgroundColor": "#ffffff, #0d1117",
+  "separatorColor": "#a0a0a0, #475569",
+  "imageColor": "#334155, #b7c9e2",
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "titleColor": {
+        "text": "#0969da, #58a6ff",
+        "line": "#94a3b8, #475569"
+      },
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Kailash Khadarabad"
+        },
+        {
+          "key": "OS",
+          "value": "macOS, Ubuntu"
+        },
+        {
+          "key": "Uptime",
+          "value": "{{uptime}}"
+        },
+        {
+          "key": "Host",
+          "value": "Hyderabad, India"
+        },
+        {
+          "key": "Kernel",
+          "value": "SDE I | Python / AI Engineer"
+        },
+        {
+          "key": "IDE",
+          "value": "VS Code, Cursor"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "Languages.Programming",
+          "value": "Python, TypeScript, JavaScript"
+        },
+        {
+          "key": "Frameworks",
+          "value": "FastAPI, React, Next.js"
+        },
+        {
+          "key": "AI.Stack",
+          "value": "TensorFlow, scikit-learn, RAG"
+        },
+        {
+          "key": "Research",
+          "value": "AI Reliability, Applied ML"
+        },
+        {
+          "key": "Building",
+          "value": "AI agents & backend systems"
+        }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        {
+          "key": "Portfolio",
+          "value": "kailashk.com"
+        },
+        {
+          "key": "GitHub",
+          "value": "github.com/kailash105"
+        },
+        {
+          "key": "Public.Email",
+          "value": "{{email}}"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars",
+          "value": "{{stars}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        },
+        "right": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Forks",
+          "value": "{{forks}}"
+        },
+        "right": {
+          "key": "PRs",
+          "value": "{{prs}}"
+        }
+      },
+      "loc"
+    ]
+  }
+}
