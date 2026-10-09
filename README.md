@@ -1,6 +1,6 @@
 <!-- README for github.com/kailash105/kailash105 -->
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Terminal-inspired profile banner for Kailash Khadarabad" />
+  <img src="./hero.svg" width="100%" alt="Terminal-inspired profile banner for Kailash Khadarabad" />
   <br/><br/>
   <a href="https://kailashk.com"><img src="https://img.shields.io/badge/PORTFOLIO-kailashk.com-47D9FA?style=for-the-badge&labelColor=101828" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/khadarabad-kailash/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-8F9CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101828" alt="LinkedIn" /></a>
