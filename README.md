@@ -1,219 +1,36 @@
-<h1 align="center">🇵🇹 Kailash Khadarabad 🇵🇹</h1>
+<!-- GitHub profile README for github.com/kailash105 -->
+<div align="center">
 
-<h3 align="center">
-⚽ AI Engineer • Full-Stack Developer • Python Developer
-</h3>
+# Kailash Khadarabad
 
-<p align="center">
-Building AI systems • Shipping scalable software • Supporting Portugal 🇵🇹
-</p>
+**Software Development Engineer · Python Backend · AI/ML**
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kailash105&label=Visitors&color=0B8F3A&style=flat"/>
-</p>
+<a href="https://kailashk.com">Portfolio</a> · <a href="https://github.com/kailash105">GitHub</a> · <a href="https://ieeexplore.ieee.org/document/11505192">IEEE Research</a>
 
-<p align="center">
-<img src="https://img.shields.io/badge/FIFA%202026-World%20Cup-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Portugal-Supporter-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Força-Portugal-success?style=for-the-badge"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=kailash105&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkailash105%2Fkailash105%2Fmain%2Fneofetch.json&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://neofetch-profile.vercel.app/api?username=kailash105&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkailash105%2Fkailash105%2Fmain%2Fneofetch.json&theme=github-light">
+  <img alt="Terminal-style GitHub profile for Kailash Khadarabad" src="https://neofetch-profile.vercel.app/api?username=kailash105&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkailash105%2Fkailash105%2Fmain%2Fneofetch.json&theme=github-dark" width="100%">
+</picture>
 
----
+</div>
 
-# 🏆 Welcome to My Stadium
+### `$ whoami`
 
-> Building production-ready AI systems while cheering every Portugal goal.
+I'm an SDE I working with Python and full-stack systems, with a focus on **AI engineering**, **RAG reliability**, and practical ML. I enjoy building end-to-end products and investigating how AI systems behave when real-world data gets messy.
 
----
+### `$ ls projects/`
 
-# 🇵🇹 Team Portugal
+- **[Gas Station Management](https://gas-station-app-v2.web.app/)** — web-based business management application.
+- **[RBAC System](https://rbac-system-delta.vercel.app/)** — role-based access control web application.
+- **[TechProjectsHub](https://www.techprojectshub.in/)** — project-oriented web platform.
+- **[Portfolio](https://kailashk.com)** — selected work and technical background.
 
-<p align="center">
+### `$ cat research.txt`
 
-🇵🇹 Portugal Supporter
-
-🐐 Cristiano Ronaldo
-
-🎯 Bruno Fernandes
-
-⚡ Rafael Leão
-
-🧱 Rúben Dias
-
-🧤 Diogo Costa
-
-🏆 **Prediction: Portugal Champions**
-
-</p>
+- **Hardware Trojan Detection and Localization in Verilog Designs for Renewable Systems** — IEEE ICEARS 2026. [DOI](https://doi.org/10.1109/ICEARS67481.2026.11416567)
+- **Empirical Assessment of State-of-the-Art Machine Learning Methods for Malicious and Phishing URL Detection** — IEEE ICDSAAI 2026. [IEEE Xplore](https://ieeexplore.ieee.org/document/11505192)
 
 ---
 
-# ⚽ Starting XI (Tech Stack)
-
-<table align="center">
-
-<tr>
-<td align="center">🧤 Goalkeeper</td>
-<td>
-
-Python
-
-Java
-
-</td>
-</tr>
-
-<tr>
-<td align="center">🛡️ Defenders</td>
-<td>
-
-Docker • Git • MongoDB • PostgreSQL
-
-</td>
-</tr>
-
-<tr>
-<td align="center">🎯 Midfield</td>
-<td>
-
-Node.js • Express • Azure • REST APIs
-
-</td>
-</tr>
-
-<tr>
-<td align="center">⚡ Attackers</td>
-<td>
-
-React
-
-Next.js
-
-Tailwind
-
-TypeScript
-
-JavaScript
-
-</td>
-</tr>
-
-<tr>
-<td align="center">👑 Captain</td>
-<td>
-
-AI • LLMs • RAG • AI Agents • ML • Automation
-
-</td>
-</tr>
-
-</table>
-
----
-
-# 🏟️ Current Club
-
-### ⚽ Python Developer @ Vassar Labs
-
-🏗️ Backend Development
-
-⚡ AI Integrations
-
-🚀 Automation
-
-☁️ Cloud Deployments
-
-📈 Performance Optimization
-
----
-
-# 🏅 Tournament Highlights
-
-| ⚽ Project | Description |
-|-----------|-------------|
-| 🤖 AI Workflow Builder | Drag & Drop AI Pipeline Builder |
-| ⚖️ LawBot | AI Legal Assistant |
-| 🔐 RBAC Auth | Secure Authentication System |
-| 🎓 TechProjectsHub | Student Project Platform |
-| 🖨️ G-Code AI | AI-powered G-Code Generator |
-
----
-
-# 📊 League Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kailash105&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash105&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash105&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎯 Current Objectives
-
-🏆 Build Production AI
-
-⚽ Master Backend Systems
-
-🤖 AI Agents
-
-☁️ Cloud Engineering
-
-🚀 SaaS Development
-
-📈 Open Source
-
----
-
-# 📅 Matchday Routine
-
-```text
-☕ Coffee
-💻 VS Code
-🐳 Docker
-📦 Git Push
-⚽ Portugal Match
-🎉 Celebrate Goals
-```
-
----
-
-# 🌍 Connect
-
-<p align="center">
-
-<a href="https://github.com/kailash105">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/kailash-khadarabad-149660156">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kailashkbc2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-## 🇵🇹 FORÇA PORTUGAL 🇵🇹
-
-### FIFA World Cup 2026
-
-*"Code. Commit. Cheer. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F3A,D81E25&height=120&section=footer"/>
-
-</p>
+<div align="center"><sub>Build useful things. Test assumptions. Keep learning.</sub></div>
